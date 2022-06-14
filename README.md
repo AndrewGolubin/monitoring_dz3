@@ -10,3 +10,4 @@
 
 1. В дополнение к инфраструктуре https://github.com/AndrewGolubin/monitoring_dz1 и https://github.com/AndrewGolubin/monitoring_dz2, в среде vmware, поднята ВМ Virt1 (192.168.12.178), в среде ВМ установлен docker, docker-compose, и поднят portainer для управления контейнерами. Доступ к общей консоли управления перенесен на Virt1.
 2. На Virt1, в докере, развернут ELK-stack (elasticsearch, logstash, kibana). Конфигурационные файлы в каталоге ELK.
+3. На хостах Virt1, Virt2 и WP-CLoud настроеен rsyslog, причем хосты Virt2 и WP-Сloud отправляют логи на хост Virt1. Дополнительно на хостах настроено логировани входа по ssh с использованием тэга tag_sshd_log. Логи входа по все хостам консолидируютя в отдельном файле на Virt1 (/var/log/rsyslog/sshd/sshd.log), который используется как источник данных для logstash.  
