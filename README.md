@@ -8,4 +8,5 @@
 
 Отчет:
 
-1. В дополнение к инфраструктуре https://github.com/AndrewGolubin/monitoring_dz1 и https://github.com/AndrewGolubin/monitoring_dz2, в среде vmware, поднята ВМ Virt1 (192.168.12.178), в среде ВМ 
+1. В дополнение к инфраструктуре https://github.com/AndrewGolubin/monitoring_dz1 и https://github.com/AndrewGolubin/monitoring_dz2, в среде vmware, поднята ВМ Virt1 (192.168.12.178), в среде ВМ установлен docker, docker-compose, и поднят portainer для управления контейнерами. Доступ к общей консоли управления перенесен на Virt1.
+2. На Virt1, в докере, развернут ELK-stack (elasticsearch, logstash, kibana). Конфигурационные файлы в каталоге ELK.
