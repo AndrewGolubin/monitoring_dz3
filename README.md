@@ -6,3 +6,6 @@
 
 3. После настройки отправки логов в ELK попробуйте настроить визуализацию логов от sshd в kibana.
 
+Отчет:
+
+1. В дополнение к инфраструктуре https://github.com/AndrewGolubin/monitoring_dz1 и https://github.com/AndrewGolubin/monitoring_dz2, в среде vmware, поднята ВМ Virt1 с базовой ОС Centos 8, в среде ВМ 
