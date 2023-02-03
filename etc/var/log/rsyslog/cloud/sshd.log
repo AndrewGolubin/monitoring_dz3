@@ -1,0 +1,9 @@
+Feb  3 11:06:44 cloud sshd[892906]: Accepted password for root from 192.168.12.169 port 4967 ssh2
+Feb  3 11:06:44 cloud sshd[892906]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Feb  3 14:12:01 cloud sshd[892906]: pam_unix(sshd:session): session closed for user root
+Feb  3 15:00:52 cloud sshd[895625]: Accepted password for root from 192.168.12.169 port 6760 ssh2
+Feb  3 15:00:52 cloud sshd[895625]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Feb  3 15:03:05 cloud sshd[895625]: pam_unix(sshd:session): session closed for user root
+Feb  3 15:03:54 cloud sshd[895718]: Accepted password for root from 192.168.12.169 port 6787 ssh2
+Feb  3 15:03:54 cloud sshd[895718]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Feb  3 15:05:26 cloud sshd[895718]: pam_unix(sshd:session): session closed for user root
