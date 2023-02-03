@@ -14,6 +14,14 @@
 
 Скрины - ниже
 
+Общая консоль
+
 ![image](https://user-images.githubusercontent.com/23739863/216607922-7ff135d8-2ab8-42aa-8fad-ac0ea473eaa1.png)
 
+Консоль с докерами ELK
+
 ![image](https://user-images.githubusercontent.com/23739863/216606560-52c96670-19cf-4f1a-a5dc-42ce46961cb7.png)
+
+Результат фиксации логирования по ssh в kibana
+
+![image](https://user-images.githubusercontent.com/23739863/216611473-39531d9e-e1f7-4b76-ad02-bc3334a058f3.png)
