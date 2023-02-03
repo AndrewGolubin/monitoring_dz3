@@ -14,4 +14,6 @@
 
 Скрины - ниже
 
+![image](https://user-images.githubusercontent.com/23739863/216607922-7ff135d8-2ab8-42aa-8fad-ac0ea473eaa1.png)
+
 ![image](https://user-images.githubusercontent.com/23739863/216606560-52c96670-19cf-4f1a-a5dc-42ce46961cb7.png)
